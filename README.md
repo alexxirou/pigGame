@@ -53,4 +53,4 @@ Feel free to use and modify the code according to your needs.
 
 ## Acknowledgements
 
-This game was created as an example project by Alex Xirouchakis using the Udemy course Javascript from Begginer to Expert starting files.
+Starter files were obtained from the course: 'The Complete JavaScript Course 2023: From Zero to Expert' by Jonas Schmedtmann.
